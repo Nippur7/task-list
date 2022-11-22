@@ -23,6 +23,18 @@
       "text": "Dar de comer a pepa",
       "day": "Agosto 5 a las 22:00",
       "reminder": false
+    },
+    {
+      "text": "Nueva Tarea",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "meet smat.io",
+      "day": "mañana",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
