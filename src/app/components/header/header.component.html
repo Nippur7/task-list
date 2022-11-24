@@ -4,6 +4,7 @@
         color = "{{showAddTask ? 'red' : 'green'}}" 
         text="{{showAddTask ? 'Cerrar Tarea' : 'Agregar Tarea'}}"
         (btnClick)="toggleAddTask()"
+        *ngIf="hasRoute('/')"
     ></app-button>
 
 </header>
